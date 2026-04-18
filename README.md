@@ -19,6 +19,7 @@
 - [ ] Give mom money
 - [ ] Groceries for house
 - [ ] Plane tickets on phone, checked in
+- [ ] Clean laptop
 
 ## Medicine and Prescriptions
 
@@ -119,7 +120,7 @@
 - [ ] Lint Roller
 - [ ] Kleenex
 - [ ] Sanitation wipes
-- [ ] Plastic bags (for organization)
+- [ ] Packing cubes and dopp kit (for organization, need to buy)
 
 ## Food and Snacks
 
@@ -173,9 +174,8 @@
   - [ ] Hair clips and hair ties
   - [ ] Bandaids
   - [ ] Watch and keychain
-- [ ] Allergy medicine
+- [ ] Allergy medicine (Zyrtek, Montelukast)
 - [ ] Money / gift card
 - [ ] Emery's headphones (for plane)
 - [ ] Emery's United account consent (if flying United)
 - [ ] Nausea medicine
-- [ ] Allergy medicine (if needed)
