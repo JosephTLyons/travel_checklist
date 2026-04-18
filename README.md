@@ -28,7 +28,7 @@
 - [ ] Hydroxyzine (in bottle with prescription label)
 - [ ] Farxiga (in bottle with prescription label)
 - [ ] Spare Libre3 (in box with prescription label)
-- [ ] MiraFast
+- [ ] MiraFast chews
 - [ ] Albuterol
 - [ ] Refill weekly medicine container
 
@@ -45,6 +45,7 @@
 - [ ] Minoxidil
 - [ ] Dermaroller
 - [ ] Face moisturizer / lotion
+- [ ] Chapstick
 - [ ] Ear swabs
 - [ ] Trimming Scissors
 - [ ] Comb
@@ -103,6 +104,7 @@
   - [ ] Ramp card
   - [ ] Health information
 - [ ] Cash
+- [ ] Keys
 
 ## Bags and Accessories
 
@@ -116,6 +118,7 @@
 - [ ] Mask
 - [ ] Lint Roller
 - [ ] Kleenex
+- [ ] Sanitation wipes
 - [ ] Plastic bags (for organization)
 
 ## Food and Snacks
@@ -125,19 +128,7 @@
 - [ ] Beef Jerky
 - [ ] Pork skins
 - [ ] Snack bars
-
-## Day Bag (Osprey) - Pack for Travel Day
-
-- [ ] Water
-- [ ] Snacks
-- [ ] Battery pack
-- [ ] USB-C Cable
-- [ ] Medications (Ibuprofen, Nausea, Metformin, Allergy)
-- [ ] iPad
-- [ ] Wallet
-- [ ] Keys
-- [ ] Sanitation wipes
-- [ ] Headphones
+- [ ] Quest snacks
 
 ---
 
