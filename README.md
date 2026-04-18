@@ -28,6 +28,9 @@
 - [ ] Hydroxyzine (in bottle with prescription label)
 - [ ] Farxiga (in bottle with prescription label)
 - [ ] Spare Libre3 (in box with prescription label)
+- [ ] MiraFast
+- [ ] Albuterol
+- [ ] Refill weekly medicine container
 
 ## Toiletries
 
@@ -89,6 +92,7 @@
 - [ ] Hoodie / Jacket (if applicable)
 - [ ] Swim trunks (if applicable)
 - [ ] Plugs
+- [ ] Spare Plugs
 - [ ] Spare plug O-rings
 
 ## Identification and Money
