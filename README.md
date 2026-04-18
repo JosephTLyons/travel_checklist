@@ -20,6 +20,7 @@
 - [ ] Groceries for house
 - [ ] Plane tickets on phone, checked in
 - [ ] Clean laptop
+- [ ] Make sure some meds are easily accessible on plane (Albuterol, Hydroxyzine, Metformin)
 
 ## Medicine and Prescriptions
 
