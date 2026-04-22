@@ -21,18 +21,19 @@
 - [ ] Plane tickets on phone, checked in
 - [ ] Clean laptop
 - [ ] Make sure some meds are easily accessible on plane (Albuterol, Hydroxyzine, Metformin)
+- [ ] Read Notion guide (if exists)
 
 ## Medicine and Prescriptions
 
 - [ ] Ibuprofen
 - [ ] Supplements (Magnesium, Biotin, Daily vitamins)
-- [ ] Metformin (in bottle with prescription label)
-- [ ] Hydroxyzine (in bottle with prescription label)
-- [ ] Farxiga (in bottle with prescription label)
-- [ ] Spare Libre3 (in box with prescription label)
 - [ ] MiraFast chews
+- [ ] Metformin (in bottle with prescription label)
+- [ ] Dapagliflozin (in bottle with prescription label)
+- [ ] Buspirone / Hydroxyzine (in bottle with prescription label)
 - [ ] Albuterol
 - [ ] Refill weekly medicine container
+- [ ] Spare Libre3 (in box with prescription label)
 
 ## Toiletries
 
@@ -91,6 +92,7 @@
 - [ ] Long sleeve shirts: ___
 - [ ] Shorts: ___ pairs
 - [ ] Pants: ___ pairs
+- [ ] Any formal wear needed?
 - [ ] Hat
 - [ ] Hoodie / Jacket (if applicable)
 - [ ] Swim trunks (if applicable)
