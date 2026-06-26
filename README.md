@@ -12,6 +12,7 @@
 - [ ] Wash clothes
 - [ ] Movies/shows downloaded on iPad
 - [ ] Haircut
+- [ ] Buzz back
 - [ ] Cut toe nails
 - [ ] Cut finger nails
 - [ ] Trim beard
