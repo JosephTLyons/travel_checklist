@@ -28,13 +28,13 @@
 
 - [ ] Ibuprofen
 - [ ] Supplements (Magnesium, Biotin, Daily vitamins)
-- [ ] MiraFast chews
 - [ ] Metformin (in bottle with prescription label)
 - [ ] Dapagliflozin (in bottle with prescription label)
-- [ ] Buspirone / Hydroxyzine (in bottle with prescription label)
-- [ ] Albuterol
+- [ ] Buspirone (in bottle with prescription label)
+- [ ] Hydroxyzine (in bottle with prescription label)
+- [ ] Albuterol / inhaler tube
 - [ ] Refill weekly medicine container
-- [ ] Spare Libre3 (in box with prescription label)
+- [ ] 2 Spare Libre3 (in box with prescription label)
 
 ## Toiletries
 
@@ -64,10 +64,11 @@
 - [ ] iPad
 - [ ] Apple Pencil
 - [ ] Watch
-- [ ] Airpods
+- [ ] AirPods
 - [ ] Wired headphones
 - [ ] Keyboard
 - [ ] Mouse
+- [ ] Roost stand
 
 ### Cables
 
@@ -78,10 +79,8 @@
 
 ### Chargers and Power
 
-- [ ] iPhone Brick (2x)
-- [ ] MacBook Brick
-- [ ] Battery bank (charged)
-- [ ] Roost stand
+- [ ] Anker wall charger
+- [ ] Anker battery bank (charged)
 
 ## Clothes
 
