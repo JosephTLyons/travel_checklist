@@ -2,6 +2,7 @@
 
 ## Pre-Trip Prep
 
+- [X] Make room on iPhone
 - [ ] Verify all travel times, time zones, and check-in info
 - [ ] Figure out reservations / tickets
 - [ ] Look up TSA guides on liquids, and medicines
@@ -9,36 +10,36 @@
 - [ ] Make ramp card default in wallet
 - [ ] Leave Emery's hospital cards at home
 - [ ] Charge devices
-- [ ] Wash clothes
+- [X] Wash clothes
 - [ ] Movies/shows downloaded on iPad
-- [ ] Haircut
-- [ ] Buzz back
-- [ ] Cut toe nails
-- [ ] Cut finger nails
+- [X] Haircut
+- [X] Buzz back
+- [X] Cut toe nails
+- [X] Cut finger nails
 - [ ] Trim beard
 - [ ] Shower
 - [ ] Give mom money
 - [ ] Groceries for house
-- [ ] Plane tickets on phone, checked in
+- [X] Plane tickets on phone, checked in
 - [ ] Clean laptop
 - [ ] Make sure some meds are easily accessible on plane (Albuterol, Hydroxyzine, Metformin)
 - [ ] Read Notion guide (if exists)
 
 ## Medicine and Prescriptions
 
-- [ ] Ibuprofen
-- [ ] Supplements (Magnesium, Biotin, Daily vitamins)
-- [ ] MiraFast chews
-- [ ] Metformin (in bottle with prescription label)
-- [ ] Dapagliflozin (in bottle with prescription label)
-- [ ] Buspirone / Hydroxyzine (in bottle with prescription label)
-- [ ] Albuterol
-- [ ] Refill weekly medicine container
-- [ ] Spare Libre3 (in box with prescription label)
+- [X] Ibuprofen
+- [X] Supplements (Magnesium, Biotin, Daily vitamins)
+- [X] Metformin (in bottle with prescription label)
+- [X] Dapagliflozin (in bottle with prescription label)
+- [X] Buspirone (in bottle with prescription label)
+- [X] Hydroxyzine (in bottle with prescription label)
+- [X] Albuterol / inhaler tube
+- [X] Refill weekly medicine container
+- [X] 1 Spare Libre3 (in box with prescription label)
 
 ## Toiletries
 
-- [ ] Baggie for liquids (TSA compliant)
+- [X] Baggie for liquids (TSA compliant)
 - [ ] Travel Shampoo
 - [ ] Travel Conditioner
 - [ ] Travel Soap
@@ -46,14 +47,11 @@
 - [ ] Toothbrush
 - [ ] Toothpaste
 - [ ] Floss
-- [ ] Minoxidil
-- [ ] Dermaroller
 - [ ] Face moisturizer / lotion
 - [ ] Chapstick
 - [ ] Ear swabs
 - [ ] Trimming Scissors
 - [ ] Comb
-- [ ] Sunscreen
 
 ## Tech
 
@@ -64,10 +62,7 @@
 - [ ] iPad
 - [ ] Apple Pencil
 - [ ] Watch
-- [ ] Airpods
-- [ ] Wired headphones
-- [ ] Keyboard
-- [ ] Mouse
+- [ ] AirPods
 
 ### Cables
 
@@ -78,10 +73,8 @@
 
 ### Chargers and Power
 
-- [ ] iPhone Brick (2x)
-- [ ] MacBook Brick
-- [ ] Battery bank (charged)
-- [ ] Roost stand
+- [ ] Anker wall charger
+- [ ] Anker battery bank (charged)
 
 ## Clothes
 
@@ -93,13 +86,11 @@
 - [ ] Long sleeve shirts: ___
 - [ ] Shorts: ___ pairs
 - [ ] Pants: ___ pairs
-- [ ] Any formal wear needed?
 - [ ] Hat
 - [ ] Hoodie / Jacket (if applicable)
-- [ ] Swim trunks (if applicable)
-- [ ] Plugs
-- [ ] Spare Plugs
-- [ ] Spare plug O-rings
+- [X] Plugs
+- [X] Spare Plugs
+- [X] Spare plug O-rings
 
 ## Identification and Money
 
@@ -108,28 +99,20 @@
   - [ ] Apple Card
   - [ ] Ramp card
   - [ ] Health information
-- [ ] Cash
 - [ ] Keys
 
 ## Bags and Accessories
 
-- [ ] Laptop bag / Keyboard case
-- [ ] Flowfold duffle bag
-- [ ] Osprey bag (day bag)
+- [X] Laptop bag
 - [ ] Primary glasses and glasses bag
-- [ ] Secondary glasses and hard case
-- [ ] Glasses cleaner and microfiber
-- [ ] Glasses wipes
-- [ ] Mask
-- [ ] Lint Roller
-- [ ] Kleenex
-- [ ] Sanitation wipes
-- [ ] Packing cubes and dopp kit (for organization, need to buy)
+- [X] Secondary glasses and hard case
+- [X] Glasses cleaner and microfiber
+- [X] Glasses wipes
+- [X] Lint Roller
 
 ## Food and Snacks
 
-- [ ] Water bottles
-- [ ] Gum
+- [X] Gum
 - [ ] Beef Jerky
 - [ ] Pork skins
 - [ ] Snack bars
